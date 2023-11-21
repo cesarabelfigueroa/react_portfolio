@@ -8,7 +8,7 @@ export default function Portfolio() {
 
                 <div className="section-title">
                 <h2>Projects</h2>
-                <p>Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+                <p>I have a proven track record of success in delivering successful projects. My previous projects have resulted in increased efficiency, improved productivity, and reduced costs for my clients. I am a highly motivated and results-oriented individual with a passion for delivering exceptional results.</p>
                 </div>
 
                 <div className="row" data-aos="fade-up">
