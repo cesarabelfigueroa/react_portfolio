@@ -15,8 +15,8 @@ export default function Portfolio() {
                 <div className="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                     <li data-filter="*" className="filter-active">All</li>
-                    <li data-filter=".filter-card">Apps</li>
                     <li data-filter=".filter-web">Web</li>
+                    <li data-filter=".filter-card">More</li>
                     </ul>
                 </div>
                 </div>
